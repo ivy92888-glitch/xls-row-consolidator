@@ -1,0 +1,9 @@
+# Treat VBA source as text so diffs are readable
+*.bas text eol=crlf
+*.cls text eol=crlf
+*.frm text eol=crlf
+
+# Binary assets
+*.xlsx binary
+*.png binary
+*.jpg binary
