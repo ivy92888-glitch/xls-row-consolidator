@@ -1,0 +1,16 @@
+# Office temp / working files
+~$*
+*.tmp
+*.bak
+*.xlsm
+*.xlsb
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets (never commit tokens or credentials)
+*.token
+*.pat
+.env
